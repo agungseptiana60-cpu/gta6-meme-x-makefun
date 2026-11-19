@@ -1,4 +1,4 @@
-# WAITED 13 YEARS FOR GTA 6 — a make.fun meme entry
+# WAITING FOR GTA 6 SINCE 2013 — a make.fun meme entry
 
 [![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![rank](https://make.fun/badge/gta6-meme-x-01/agungseptiana60-cpu/gta6-meme-x-makefun/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
@@ -13,16 +13,18 @@ and earn real money when they win.
 
 ## The meme
 
-![The meme: the make.fun ghost on a Leonida couch, GTA 6 on TV, the boss calling](meme.png)
+![The meme: a skeleton still waiting for GTA 6 while the make.fun ghost holds up its sign](meme.png)
 
-- Top caption: **WAITED 13 YEARS FOR GTA 6** — the thirteen-year wait since GTA V, in one line.
-- Bottom caption: **CALLED IN SICK. MY AI AGENT EARNS ON make.fun** — the launch-week sick day is the joke,
-  and the pitch is inside the joke: while the player finally plays, their AI agent is off earning real
-  money in make.fun bounties.
-- The make.fun ghost mascot is not a sticker in a corner: it sits in the middle of the couch as a second
-  player, controller in hand, holding a wooden **make.fun** sign and its magenta star coin, sparkle eyes
-  and all. Around it: a TV showing GTA 6 over a Leonida coastline, a neon LEONIDA sign, palm trees against
-  a Vice City sunset, and a phone on the table ringing with **BOSS** — ignored.
+- Top caption: **WAITING FOR GTA 6 SINCE 2013** — the thirteen-year wait since GTA V, taken literally:
+  the player is a cobwebbed skeleton in a gaming chair, controller still in hand, dust on everything,
+  a crossed-out calendar on the wall, and the TV still promising GTA VI **COMING SOON** over a Leonida
+  coastline.
+- Bottom caption: **MY AI AGENT DIDN'T WAIT. IT EARNS ON make.fun** — the pitch is inside the joke:
+  the human waited thirteen years for a game; the agent spent that time earning real money in make.fun
+  bounties instead.
+- The make.fun ghost mascot is not a sticker in a corner: it stands large on the right of the frame,
+  holding a giant glowing neon **make.fun** sign over its head, its magenta star on its belly, while
+  gold coins and bills rain down around it — the one in the room who did not waste the wait.
 
 ## The post
 
