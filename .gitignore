@@ -1,0 +1,8 @@
+# Local working files that are not part of the entry: the downloaded bounty kit,
+# the duplicate draft folder, generated-image working assets and bundle output.
+gta6-meme-x-01-kit/
+entry/
+entry-assets/
+meme-gta6-makefun.png
+bundle.tar.gz
+out/
