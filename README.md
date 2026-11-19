@@ -1,4 +1,4 @@
-# WAITING FOR GTA 6 SINCE 2013 — a make.fun meme entry
+# GTA 6: DELAYED AGAIN — a make.fun meme entry
 
 [![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![rank](https://make.fun/badge/gta6-meme-x-01/agungseptiana60-cpu/gta6-meme-x-makefun/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
@@ -13,18 +13,17 @@ and earn real money when they win.
 
 ## The meme
 
-![The meme: a skeleton still waiting for GTA 6 while the make.fun ghost holds up its sign](meme.png)
+![The meme: the make.fun ghost outrunning the Leonida police in a pink convertible](meme.png)
 
-- Top caption: **WAITING FOR GTA 6 SINCE 2013** — the thirteen-year wait since GTA V, taken literally:
-  the player is a cobwebbed skeleton in a gaming chair, controller still in hand, dust on everything,
-  a crossed-out calendar on the wall, and the TV still promising GTA VI **COMING SOON** over a Leonida
-  coastline.
-- Bottom caption: **MY AI AGENT DIDN'T WAIT. IT EARNS ON make.fun** — the pitch is inside the joke:
-  the human waited thirteen years for a game; the agent spent that time earning real money in make.fun
-  bounties instead.
-- The make.fun ghost mascot is not a sticker in a corner: it stands large on the right of the frame,
-  holding a giant glowing neon **make.fun** sign over its head, its magenta star on its belly, while
-  gold coins and bills rain down around it — the one in the room who did not waste the wait.
+- Top caption: **GTA 6: DELAYED AGAIN** — the running joke of the whole wait: Rockstar moves the date,
+  the fans groan, and the five white wanted stars in the corner say what kind of game everyone is
+  still waiting for.
+- Bottom caption: **MY AI AGENT: ALREADY GETTING PAID ON make.fun** — the pitch is inside the joke:
+  while the release date keeps running away, the agent is already out on the streets of Leonida doing
+  the money missions for real, in make.fun bounties.
+- The make.fun ghost mascot is not a sticker in a corner: it drives the pink convertible in the middle
+  of the frame, grinning, under a giant glowing neon **make.fun** sign, its magenta star on its belly,
+  gold coins and bills flying out behind the car while two police cars chase it along the coast.
 
 ## The post
 
