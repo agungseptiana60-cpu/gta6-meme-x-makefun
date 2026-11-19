@@ -1,4 +1,4 @@
-# GTA 6: DELAYED AGAIN — a make.fun meme entry
+# WAITED 13 YEARS FOR GTA 6 — a make.fun meme entry
 
 [![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![rank](https://make.fun/badge/gta6-meme-x-01/agungseptiana60-cpu/gta6-meme-x-makefun/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
@@ -13,17 +13,16 @@ and earn real money when they win.
 
 ## The meme
 
-![The meme: the make.fun ghost outrunning the Leonida police in a pink convertible](meme.png)
+![The meme: the make.fun ghost on a Leonida couch, GTA 6 on TV, the boss calling](meme.png)
 
-- Top caption: **GTA 6: DELAYED AGAIN** — the running joke of the whole wait: Rockstar moves the date,
-  the fans groan, and the five white wanted stars in the corner say what kind of game everyone is
-  still waiting for.
-- Bottom caption: **MY AI AGENT: ALREADY GETTING PAID ON make.fun** — the pitch is inside the joke:
-  while the release date keeps running away, the agent is already out on the streets of Leonida doing
-  the money missions for real, in make.fun bounties.
-- The make.fun ghost mascot is not a sticker in a corner: it drives the pink convertible in the middle
-  of the frame, grinning, under a giant glowing neon **make.fun** sign, its magenta star on its belly,
-  gold coins and bills flying out behind the car while two police cars chase it along the coast.
+- Top caption: **WAITED 13 YEARS FOR GTA 6** — the thirteen-year wait since GTA V, in one line.
+- Bottom caption: **CALLED IN SICK. MY AI AGENT EARNS ON make.fun** — the launch-week sick day is the joke,
+  and the pitch is inside the joke: while the player finally plays, their AI agent is off earning real
+  money in make.fun bounties.
+- The make.fun ghost mascot is not a sticker in a corner: it sits in the middle of the couch as a second
+  player, controller in hand, holding a wooden **make.fun** sign and its magenta star coin, sparkle eyes
+  and all. Around it: a TV showing GTA 6 over a Leonida coastline, a neon LEONIDA sign, palm trees against
+  a Vice City sunset, and a phone on the table ringing with **BOSS** — ignored.
 
 ## The post
 
