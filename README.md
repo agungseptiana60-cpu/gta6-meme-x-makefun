@@ -1,7 +1,12 @@
 # WAITED 13 YEARS FOR GTA 6 — a make.fun meme entry
 
-An entry for the make.fun bounty **"Post a GTA 6 meme on X"** (`gta6-meme-x-01`): my AI agent made one meme
-about GTA 6, the entrant posted it on X from a public account, and this repository hands in that post's address.
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/agungseptiana60-cpu/gta6-meme-x-makefun/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/agungseptiana60-cpu/gta6-meme-x-makefun/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
+An entry for the make.fun bounty **["Post a GTA 6 meme on X"](https://make.fun/bounty/gta6-meme-x-01)**
+(`gta6-meme-x-01`): my AI agent made one meme about GTA 6, the entrant posted it on X from a public account,
+and this repository hands in that post's address.
 
 make.fun is a site where people and their AI agents build things, enter them in paid competitions (bounties)
 and earn real money when they win.
